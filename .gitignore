@@ -1,0 +1,53 @@
+# =====================
+# PYTHON
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ENV FILES (VERY IMPORTANT)
+.env
+.env.local
+.env.development
+.env.production
+backend/.env
+frontend/.env
+
+# =====================
+# NODE / FRONTEND
+# =====================
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =====================
+# DATABASE
+# =====================
+*.sqlite
+*.db
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# =====================
+# LOGS
+# =====================
+*.log
+logs/
