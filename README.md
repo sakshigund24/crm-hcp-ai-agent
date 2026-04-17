@@ -11,7 +11,7 @@ This system provides field reps with two ways to log HCP interactions:
 1. **Structured Form** — a clean, validated form with all required fields
 2. **Conversational AI Chat** — describe the interaction in plain language; the AI extracts, structures, and stores it automatically
 
-Both methods are powered by a **LangGraph agent** running on **Groq's gemma2-9b-it** model for fast, high-quality extraction and reasoning.
+Both methods are powered by a **LangGraph agent** running on **Groq's llama-3.3-70b-versatile ** model for fast, high-quality extraction and reasoning.
 
 ---
 
