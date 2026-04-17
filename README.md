@@ -68,6 +68,9 @@ crm-hcp/
 │   │   └── hcp_agent.py        # LangGraph state graph + nodes
 │   ├── tools/
 │   │   └── hcp_tools.py        # All 6 LangChain tools
+│   ├── core/
+│   │   ├── settings.py
+│   │   └── __init__.py
 │   ├── models/
 │   │   └── interaction.py      # SQLAlchemy ORM model
 │   ├── database/
