@@ -22,7 +22,7 @@ Both methods are powered by a **LangGraph agent** running on **Groq's llama-3.3-
 | Frontend  | React 18, Vite, Redux Toolkit, Tailwind CSS, Google Inter |
 | Backend   | Python 3.11, FastAPI, SQLAlchemy async |
 | AI Agent  | LangGraph, LangChain Core           |
-| LLM       | Groq API — `gemma2-9b-it`           |
+| LLM       | Groq API — `llama-3.3-70b-versatile`           |
 | Database  | PostgreSQL (via asyncpg)            |
 | Container | Docker + Docker Compose             |
 
